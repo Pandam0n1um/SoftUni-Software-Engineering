@@ -9,7 +9,7 @@
 
 <h2> Summary </h2>
 
-# <a> The **"Programming Basics"** course is introduction to basic coding skills. Demonstrated is work with IDE (PyCharm), **use of variables and data**, **operators** and **expressions**, **console-based** applications (input and output), use of conditional statements **(if, if-else)** and loops **(for, while, while True)**.
+<a> The **"Programming Basics"** course is introduction to basic coding skills. Demonstrated is work with IDE (PyCharm), **use of variables and data**, **operators** and **expressions**, **console-based** applications (input and output), use of conditional statements **(if, if-else)** and loops **(for, while, while True)**.
 
-  The course **"Programming Basics"** ends with practical programming exam. Details can be found <a href="https://softuni.bg/trainings/courses"> here </a>
+The course **"Programming Basics"** ends with practical programming exam. Details can be found <a href="https://softuni.bg/trainings/courses"> here </a>
 
