@@ -1,8 +1,5 @@
 # <p align="center"><a href="https://softuni.bg/trainings/3401/programming-basics-with-python-may-2021"> Programming Basics with Python - May 2021 <a/><p>
 
-<a href="https://softuni.bg/trainings/3401/programming-basics-with-python-may-2021" rel="Basics"> ![SoftUni logo][logo] </a>
-
-[logo]: https://softuni.bg/content/images/svg-logos/software-university-logo.svg "Logo Title Text 2"
 
 <br/>
 <br/>
