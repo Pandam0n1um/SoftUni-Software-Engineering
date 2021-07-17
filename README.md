@@ -15,8 +15,6 @@
 
 <tr>
   <th> Python </th>
-  <th> JavaScript </th>
-  <th> Front-End </th>
 </tr>
 
 <tr>
