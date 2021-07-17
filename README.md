@@ -1,5 +1,8 @@
 # <p align="center"> Courses from the main program in SoftUni <p>
 
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4
+  //8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" />  
+  
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
 [logo]: https://softuni.bg/content/images/svg-logos/software-university-logo.svg "Logo Title Text 2"
