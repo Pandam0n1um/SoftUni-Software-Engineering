@@ -22,12 +22,10 @@
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3401/programming-basics-with-python-may-2021" > Programming Basics with Python-May 2021 </a>
-| <a href="https://softuni.bg/certificates/details/107370/5e7ec35a"> Link</a> |
+| <a href="https://softuni.bg/trainings/3401/programming-basics-with-python-may-2021" > Programming Basics with Python-May 2021 </a>| <a href="https://softuni.bg/certificates/details/107370/5e7ec35a"> Link</a> |
 
   
-| <a href="https://softuni.bg/trainings/3450/programming-fundamentals-with-python-september-2021"> Programming Fundamentals with Python-September 2021 </a> 
-| <a href="blank"> Link</a> |
+| <a href="https://softuni.bg/trainings/3450/programming-fundamentals-with-python-september-2021"> Programming Fundamentals with Python-September 2021 </a> | <a href="blank"> Link</a> |
 </td>
 
 
