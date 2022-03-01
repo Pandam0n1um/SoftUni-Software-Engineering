@@ -1,4 +1,4 @@
-# <p align="center"> Courses from the main Python track in SoftUni <p>
+# <p align="center"> Problems from the Courses in the main Python track in SoftUni <p>
 
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
