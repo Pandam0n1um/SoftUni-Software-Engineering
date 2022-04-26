@@ -33,7 +33,7 @@
   <th> JavaScript </th>
 </tr>
   <td>
-  | **Course**                                                            | **Link**                                                   |
+
 
 </td>
 
