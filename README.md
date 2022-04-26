@@ -28,7 +28,15 @@
 | <a href="https://softuni.bg/trainings/3591/python-oop-february-2022"> Python OOP-January 2022 </a> | <a href="https://softuni.bg/certificates/details/131106/c06e4c93"> Link</a> | 
 | <a href="https://softuni.bg/trainings/3595/python-web-basics-january-2022"> Python Web Basics-January 2022 </a> | <a href="blank"> Link</a> | 
 </td>
+  
+<tr>
+  <th> JavaScript </th>
+</tr>
+  <td>
+  | **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
 
+</td>
 
 </table>
 
